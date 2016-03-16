@@ -28,7 +28,7 @@ It's a simple script for adding cards to Trello based on issues in gitlab projec
 * edit config.php
 * required parameters in trello array:
     * token (trello api token) [if you will using this script only for you, the best option is to use token from [this page](https://trello.com/app-key) (click the link on "you can manually generate a Token.")
-    * key (Trello Developer API Key) You van find it here: [https://trello.com/app-key]()
+    * key (Trello Developer API Key) You van find it here: [https://trello.com/app-key](https://trello.com/app-key)
     * board_name or board_id (e.g. "My awesome project" or [trello-board-id]) **IMPORTANT** it's not case sensitive 
     * list_name (e.g. Issues) **IMPORTANT** it's not case sensitive
 * card name format:
@@ -56,7 +56,7 @@ It's a simple script for adding cards to Trello based on issues in gitlab projec
 
 ## Thanks
 
-Great thanks to [https://github.com/cdaguerre]() for awesome [Trello Api Client](https://github.com/cdaguerre/php-trello-api)
+Great thanks to [cdaguerre](https://github.com/cdaguerre) for awesome [Trello Api Client](https://github.com/cdaguerre/php-trello-api)
 
 ## License
 MIT
