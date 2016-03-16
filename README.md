@@ -41,7 +41,7 @@ It's a simple script for adding cards to Trello based on issues in gitlab projec
 
 * go to your project's settings
 * go to "Web hooks"
-* add link to your script destination (e.g. https://example.com/gitlab-trello/index.php
+* add link to your script destination (e.g. https://example.com/gitlab-trello/index.php)
 * check "Issues events"
 * add Web Hook
 
