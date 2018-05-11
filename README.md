@@ -56,6 +56,8 @@ It's a simple script for adding cards to Trello based on issues in gitlab projec
 
 ## Thanks
 
+Thanks to @lgg for letting me fork you. Simple, but good code. Maybe I'll improve / augment. Thanks again.
+
 Great thanks to [cdaguerre](https://github.com/cdaguerre) for awesome [Trello Api Client](https://github.com/cdaguerre/php-trello-api)
 
 ## License
